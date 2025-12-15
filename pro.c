@@ -1,4 +1,4 @@
-#includee<stdio.h>
+#include<stdio.h>
 int main(){
-    printf("Welcome");
+    printf("Welcome");  #code
 }
