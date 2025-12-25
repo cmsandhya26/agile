@@ -1,1 +1,1 @@
-print("Library Management System")
+print("Library Management System Initialised")
