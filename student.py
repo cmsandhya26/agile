@@ -1,1 +1,1 @@
-print("Student details are here!!!")
+print("Student details will be displayed!!!")
