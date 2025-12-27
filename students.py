@@ -1,0 +1,1 @@
+print("Student details will be shown here!")
