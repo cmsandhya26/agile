@@ -1,1 +1,1 @@
-print("Master branch editted")
+print("Feature branch and master branch editted")
